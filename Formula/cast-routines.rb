@@ -1,9 +1,9 @@
 class CastRoutines < Formula
   desc "Schedule autonomous Claude Code routines via YAML + cron"
   homepage "https://github.com/ek33450505/cast-routines"
-  url "https://github.com/ek33450505/cast-routines/archive/refs/tags/v0.1.0.tar.gz"
-  version "0.1.0"
-  sha256 "ad63727bec1844470b1c2e08393156ef07b31736416472438d233fd1d8722b8b"
+  url "https://github.com/ek33450505/cast-routines/archive/refs/tags/v0.1.1.tar.gz"
+  version "0.1.1"
+  sha256 "200670580cf973cbe34aac8936742e87d3b89e4d28ed7bd44f01b388f0115104"
   license "MIT"
 
   depends_on "python@3.12"
